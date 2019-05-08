@@ -4,11 +4,7 @@ Blockchain é um conceito, uma arquitetura de banco de dados, sendo assim, não 
 
 Blockchain como o nome diz na tradução literal, (Block = Bloco) + (Chain = Cadeia) = Cadeia de Blocos, esse protocolo é chamado assim, por registrar em um livro razão todas as transações, eu particularmente gosto de comparar o Blockchain com um grande livro em que a cada página escrita desse livro é feito uma assinatura única, e a pagina posterior irá conter uma assinatura da página anterior e assinatura da página atual.
 
->  
-
-> _“Uma maneira para um usuário da Internet transferir um valor único de propriedade digital para outro usuário da Internet, de modo que a transferência seja garantida para ser fácil e segura, todos sabem que a transferência ocorreu, e ninguém pode duvidar da legitimidade da transferência. As consequências desse avanço são difíceis de exagerar “._
-
-> _– Marc Andreessen_
+> _“Uma maneira para um usuário da Internet transferir um valor único de propriedade digital para outro usuário da Internet, de modo que a transferência seja garantida para ser fácil e segura, todos sabem que a transferência ocorreu, e ninguém pode duvidar da legitimidade da transferência. As consequências desse avanço são difíceis de exagerar “. – Marc Andreessen_
 
 ![Blockchain!](/src/blockchain.gif)
 
