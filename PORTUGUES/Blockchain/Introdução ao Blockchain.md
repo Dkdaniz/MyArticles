@@ -20,7 +20,7 @@ Uma rede centralizada se característica por haver vários clientes (computadore
 
 Consiste em decentralizar a informações, não unificar em um único local os dados e sim distribuir a todos os clientes essa informação, onde todos possuem parte ou todo os dados que a rede precisa.
 
-![Rede Descentralizada!](/src/Descentralizado.gif)
+![Rede Descentralizada!](/src/descentralizado.gif)
 
 ### Peer to Peer (P2P)
 
