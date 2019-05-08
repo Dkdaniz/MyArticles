@@ -14,20 +14,26 @@ Ao acessar o perfil de algum usuário você irá visualizar todos os dados e pos
 
 Uma rede centralizada se característica por haver vários clientes (computadores solicitantes dos dados) e um único servidor (fornecedor dos dados), essa rede se nomeia rede centralizada por centralizar em um único local todas as informações requeridas dos seus clientes. Exemplo: (Facebook, Google+, Hotmail, Uol).
 
-![REDE CENTRALIZADA!](/src/source.gif "REDE CENTRALIZADA")
+![Rede Centralizada!](/src/source.gif)
 
 ### Rede Descentralizada
 
 Consiste em decentralizar a informações, não unificar em um único local os dados e sim distribuir a todos os clientes essa informação, onde todos possuem parte ou todo os dados que a rede precisa.
 
+![Rede Descentralizada!](/src/Descentralizado.gif)
+
 ### Peer to Peer (P2P)
 
 É uma arquitetura de rede de computadores, em que cada ponto ou node(nós) da rede funciona tanto como cliente, como servidor (Cliente/Servidor), permitindo assim o compartilhamento de serviços os dados digitais. um exemplo de redes P2P (peer to peer) são os torrent que realizam o compartilhamento desses dados.
+
+![Peer to Peer (P2P)!](/src/p2p.gif)
 
 
 ### HASH
 
 Uma função Hash é um algoritmo que mapeia dados de comprimento variável para dados de comprimento fixo, o conceito teórico diz que “Hash é a transformação de uma grande quantidade de dados em uma pequena quantidade de informações”, ou seja, ele ira pegar o dado e submete-lo a função, que fara a conversão retornando outro valor completamente diferente.
+
+![Hash Function!](/src/hash.gif)
 
 ##### Exemplo:
 
@@ -56,6 +62,8 @@ O Blockchain deve ser criptografado e inviolável, a criptografia usada é a Ass
 
 Chave Simétrica tem como objetivo utilizar uma única chave para criptografar e descriptografar os dados.
 
+![Chave Simétrica!](/src/simetrica.png )
+
 
 Na chave Simétrica a mesma chave criptografa e descriptografa a mensagem, o problema disso e que se essa chave for possuída por um invasor, ele pode descriptografar todas as mensagem do usuário.  
 **Desvantagens: **Vulnerabilidade dos dados.  
@@ -66,6 +74,8 @@ Na chave Simétrica a mesma chave criptografa e descriptografa a mensagem, o pro
 ##### Chave Assimétrica
 
 São criadas duas chaves: uma para Criptografia da informação e outra para descriptografar, a chave publica pode ser obtida por todos.
+
+![Chave Assimétrica!](/src/Assimetrica.png)
 
 
 A chave Assimétrica tem como objetivo deixar mais seguro a informação, ou seja, o usuário possui uma chave publica e uma privada, a Publica irá ser responsável por criptografar e todos podem solicitar ao destinatário a mensagem de modo que se ela for interceptada por um hacker mal intencionado, a mensagem só poderá ser descriptografada pelo seu real destinatário, pois para descriptografar será necessário uma chave privada.  
