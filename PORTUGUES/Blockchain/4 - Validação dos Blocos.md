@@ -10,7 +10,8 @@ obs: quando usar o termo Minerador, não é de fato uma pessoa que esta mineiran
 
 Prova de trabalho é um protocolo usado para evitar ataques a rede, ou seja, se um invasor tentar alterar um bloco ele primeiro terá que realizar a prova de trabalho a todos os blocos anteriores a fim de reorganizar a cadeia de blocos.
 
-A prova de trabalho funciona da seguinte forma, os mineradores tentam resolver um problema matemático muito complexo, mas que por sua vez é muito fácil para verificar se a resposta esta correta ou não, esse problema matemático nunca é o mesmo, obrigando os mineradores a usarem poder computacional para tentarem resolver o mais rápido possível. 
+A prova de trabalho funciona da seguinte forma, os mineradores tentam resolver um problema matemático muito complexo, mas que por sua vez é muito fácil para verificar se a resposta esta correta ou não, esse problema matemático nunca é o mesmo, obrigando os mineradores a usarem poder computacional para tentarem resolver o mais rápido possível.
+
 ![POW!](/src/1-pow.png)
 
 Após esse processo teremos o minerador vencedor,ou seja, o que conseguiu resolver o problema matemático primeiro que os demais, esse minerador terá o direito de validar o bloco atual e processa-lo para a rede, depois de validar ele receberá uma recompensa por esse trabalho, que é na própria moeda da rede, ela geralmente é composta por  (Taxas pagas para processamento + recompensa da rede pelo trabalho).
