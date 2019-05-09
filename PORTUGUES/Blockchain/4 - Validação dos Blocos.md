@@ -28,7 +28,7 @@ A definição de Prova de Participação (prova de estaca na tradução livre) a
 Ao contrário da prova de trabalho onde minerador deve ceder poder computacional em pró a rede para validação do bloco, na prova de participação o usuário só pode minerar a quantidade proporcional ao valor de tokens da rede, esse processo foi criado pois a prova de trabalho a longo prazo gera uma demanda cada vez maior de poder computacional e energia para resolver o enigma matemático, e definir de quem é o direto de validar o bloco.
 
 ![POS!](/src/1-pos.png)
- 
+
 Ao contrario da Prova de trabalho, no PoS não há recompensa do sistema por minerar o bloco, a única recompensa pela validação são os acúmulos das taxas de todas as transações feitas naquele bloco.
 
 ![POS!](/src/2-pos.png)
