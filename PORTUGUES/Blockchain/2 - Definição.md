@@ -67,7 +67,7 @@ Deve-se ser anônimo, nunca deve revelar o seu verdadeiro dono.
 
 Deve-se transferir o menor valor possível, no exemplo do Bitcoin é possível enviar 0,000000001 isso mesmo 9 casas decimais.
 
-![Tranferibilidade!](/src/transfer.gif)
+![Tranferibilidade!](/src/transfer.gif
 
 ##### Escabilidade
 

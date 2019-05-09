@@ -1,4 +1,4 @@
-## Introdução ao Blockchain
+# Introdução ao Blockchain
 
 Para entendermos o que é Blockchain antes vamos viajar para os primórdios da criação desta rede mundial de computadores, a nossa Internet. Você já se perguntou como funciona a internet? Não?
 
@@ -75,7 +75,7 @@ Na chave Simétrica a mesma chave criptografa e descriptografa a mensagem, o pro
 
 São criadas duas chaves: uma para Criptografia da informação e outra para descriptografar, a chave publica pode ser obtida por todos.
 
-![Chave Assimétrica!](/src/Assimetrica.png)
+![Chave Assimétrica!](/src/assimetrica.png)
 
 
 A chave Assimétrica tem como objetivo deixar mais seguro a informação, ou seja, o usuário possui uma chave publica e uma privada, a Publica irá ser responsável por criptografar e todos podem solicitar ao destinatário a mensagem de modo que se ela for interceptada por um hacker mal intencionado, a mensagem só poderá ser descriptografada pelo seu real destinatário, pois para descriptografar será necessário uma chave privada.  
