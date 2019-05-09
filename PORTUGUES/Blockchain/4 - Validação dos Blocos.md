@@ -18,6 +18,7 @@ Após esse processo teremos o minerador vencedor,ou seja, o que conseguiu resolv
 
 ![POW!](/src/2-pow.png)
 
+
 Realizado o processo de validação, a corrida para resolver o próximo problema é reiniciado, aumentando assim a dificuldade.
 
 ![POW!](/src/3-pow.png)
