@@ -9,6 +9,7 @@ Neste post vou citar algumas das principais implementações usando o protocolo 
 
 ![Bitcoin!](/src/bitcoin.png)
 
+
  
 **Data de criação:** 2014  
 **Proposta de valor:** Plataforma descentralizada que executa contratos inteligentes : aplicativos que funcionam exatamente como programados sem qualquer possibilidade de tempo de inatividade, censura, fraude ou interferência de terceiros.  
@@ -17,13 +18,15 @@ Neste post vou citar algumas das principais implementações usando o protocolo 
 
 ![Ethereum!](/src/ethereum.png)
 
+
  
-**Data de criação: **2014  
+**Data de criação:** 2014  
 **Proposta de valor:** Criar um blockchain distribuído para internet das coisas, seu diferencial é que as transações não cobram taxas.  
 **Valor por MIOTA:** 1,48  
 **Data Consulta:** 22/09/2017 09:38
 
 ![Iota!](/src/iota.png)
+
 
 
 **Data de criação:** 2016  
@@ -32,6 +35,7 @@ Neste post vou citar algumas das principais implementações usando o protocolo 
 **Data Consulta:** 22/09/2017 09:38
 
 ![Steem!](/src/steem.jpg)
+
 
  
 **Data de criação:** 2015  
