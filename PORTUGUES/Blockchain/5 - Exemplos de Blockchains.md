@@ -31,7 +31,7 @@ Neste post vou citar algumas das principais implementações usando o protocolo 
 **Valor por STEEM:** 3,00  
 **Data Consulta:** 22/09/2017 09:38
 
-![Steem!](/src/steem.png)
+![Steem!](/src/steem.jpg)
 
  
 **Data de criação:** 2015  
